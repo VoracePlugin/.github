@@ -4,9 +4,6 @@ Des plugins **libres et gratuits** pour serveurs Paper (Minecraft 1.21 à 26.x),
 ce que font Nexo, ItemsAdder, ModelEngine, ProtocolLib, MythicMobs et MMOItems, en plus simple, en français, et
 réglable avec des menus.
 
-> **Code écrit par une IA.** Les plugins Vorace sont écrits par Claude (l'IA d'Anthropic), à la demande et sous la
-> direction de l'équipe, qui teste et décide de ce qui est ajouté. Tout le code est ouvert pour que chacun puisse le
-> relire, le corriger et l'améliorer. Rien n'est copié d'un autre plugin.
 
 ## Les trois plugins
 
